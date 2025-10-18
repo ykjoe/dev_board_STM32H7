@@ -940,6 +940,27 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Voltage Regulator"
+		(exclude_from_sim no)
+		(at 127.254 93.98 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "7d12237d-f8d3-43c0-83ef-c49b157dd0b3")
+	)
+	(text "Input: 5V\nOutput: 3V3 1A"
+		(exclude_from_sim no)
+		(at 119.634 64.262 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "85d3677e-3665-4b74-b31a-b3fa29990f79")
+	)
 	(junction
 		(at 151.13 74.93)
 		(diameter 0)
