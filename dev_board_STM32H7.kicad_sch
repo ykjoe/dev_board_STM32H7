@@ -7501,7 +7501,7 @@
 			)
 			(project "dev_board_STM32H7"
 				(path "/e80e7b4e-bd6a-4bf6-b9d1-d43da5eb0b78"
-					(page "#")
+					(page "2")
 				)
 			)
 		)
@@ -7578,7 +7578,7 @@
 			)
 			(project "dev_board_STM32H7"
 				(path "/e80e7b4e-bd6a-4bf6-b9d1-d43da5eb0b78"
-					(page "#")
+					(page "4")
 				)
 			)
 		)
@@ -7735,7 +7735,7 @@
 			)
 			(project "dev_board_STM32H7"
 				(path "/e80e7b4e-bd6a-4bf6-b9d1-d43da5eb0b78"
-					(page "#")
+					(page "3")
 				)
 			)
 		)
