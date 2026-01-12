@@ -156,7 +156,7 @@
         "min_track_width": 0.1,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -527,7 +527,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "output/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -653,10 +653,6 @@
     [
       "e80e7b4e-bd6a-4bf6-b9d1-d43da5eb0b78",
       "Root"
-    ],
-    [
-      "3a3196ce-e347-4cb0-9e4e-8b24f702fbc4",
-      "Power"
     ],
     [
       "8c7934ae-080c-403f-9961-ec63b80c0c28",
